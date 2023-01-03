@@ -1,6 +1,6 @@
 # Forge of Heroes (APP)
 
-## Purpose
+## Purpose
 
 This project provides the APIs for the mobile application Forge of Heroes. FOH is meant to help people live a healthier lifestyle by making the journey more fun.
 
